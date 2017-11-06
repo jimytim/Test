@@ -1,0 +1,3 @@
+My new file_3
+
+Some contents
