@@ -1,3 +1,5 @@
-My new file_3
+No more header
 
-Some contents
+Some new c_o_n_t_e_n_t_s
+
+Hello there, this is my new functionnality
